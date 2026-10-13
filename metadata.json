@@ -1,0 +1,6 @@
+{
+  "name": "Album Satwa Liar",
+  "description": "Album foto dan galeri visual satwa liar dunia dengan fotografi beresolusi tinggi, cerita habitat, rekaman suara satwa, dan scrapbook personal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
